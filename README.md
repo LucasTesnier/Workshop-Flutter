@@ -1,7 +1,7 @@
 # Workshop-Flutter
 The Flutter workshop
 
-# Flutter Configuration
+# Prerequisites
 
 Please come to the workshop with Android studio and flutter sdk install.
 
