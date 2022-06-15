@@ -3,6 +3,12 @@ The Flutter workshop
 
 # Flutter Configuration
 
+Please come to the workshop with Android studio and flutter sdk install.
+
+Follow this link : https://docs.flutter.dev/get-started/install
+
+You don't have to follow the games on phones and emulators, this will be done during the Workshop.
+
 # WorkShop steps
 
 ## Step 1
